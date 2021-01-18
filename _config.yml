@@ -1,0 +1,16 @@
+# Don't change these
+theme: jekyll-theme-primer
+spec_server: specs.amwa.tv
+
+# AMWA ID
+amwa_id: BCP-002
+
+# Base name for site (typically lower case version of AMWA ID, or the repo name)
+baseurl: /bcp-002
+
+# Which relase or branch appears in header links and on the home page
+default_tree: branches/master # alternatively e.g. tags/v1.0
+
+# Regex patterns of tags (releases) and branches to show
+show_tags:
+show_branches: master
