@@ -4,7 +4,7 @@
 [![Render Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ARender)
 
 This repository is used to document best practice and recommendations,
-for how to indicate and handle Groups of Resources in [AMWA NMOS APIs](https://amwa-tv.github.io/nmos).
+for how to indicate and handle Groups of Resources in [AMWA NMOS APIs](https://specs.amwa.tv/nmos).
 
 Currently this addresses "Natural Groups",
 i.e. those created by the default operation of a Node/Device,
