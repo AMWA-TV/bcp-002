@@ -1,10 +1,3 @@
-# AMWA NMOS Grouping Recommendations
-
-[![Lint Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ALint)
-[![Render Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ARender)
-
-[//]: # "INTRO-START"
-
 ### What does it do?
 
 - Documents best practice and recommendations for how to indicate and handle Groups of Resources in AMWA NMOS APIs.
@@ -18,9 +11,3 @@
 ### How does it work?
 
 - [BCP-002-01](branches/master/best-practice-natural-grouping.html) recommends Nodes add a ``grouphint`` tag to the JSON representation of each member of a Natural Group
-
-[//]: # "INTRO-END"
-
-## Getting started
-
-There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
