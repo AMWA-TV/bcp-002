@@ -17,7 +17,7 @@
 
 ### How does it work?
 
-- [BCP-002-01](branches/main/best-practice-natural-grouping.html) recommends Nodes add a ``grouphint`` tag to the JSON representation of each member of a Natural Group
+- [BCP-002-01](https://specs.amwa.tv/bcp-002-01) recommends Nodes add a ``grouphint`` tag to the JSON representation of each member of a Natural Group
 
 [//]: # "INTRO-END"
 
