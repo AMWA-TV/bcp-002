@@ -3,7 +3,7 @@
 [![Lint Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ALint)
 [![Render Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ARender)
 
-[//]: # "INTRO-START"
+<!-- INTRO-START -->
 
 ### What do the recommendations do?
 
@@ -18,7 +18,7 @@
 
 - [BCP-002-01](https://specs.amwa.tv/bcp-002-01) addresses "Natural Groups", i.e. those created by the default operation of a Node/Device, and not     user- or automation-defined Groups.
 
-[//]: # "INTRO-END"
+<!-- INTRO-END -->
 
 ## Getting started
 
