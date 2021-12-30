@@ -1,5 +1,7 @@
 # Don't change these
-theme: jekyll-theme-primer
+remote_theme: pages-themes/primer
+plugins:
+- jekyll-remote-theme
 spec_server: specs.amwa.tv
 
 # AMWA ID
@@ -13,4 +15,4 @@ default_tree: branches/main # alternatively e.g. releases/v1.0
 
 # Regex patterns of releases and branches to show
 show_releases:
-show_branches: ^main$|^publish-
+show_branches: main|^publish-

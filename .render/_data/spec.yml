@@ -1,0 +1,9 @@
+amwa_id: BCP-002
+url: https://specs.amwa.tv/bcp-002
+name: Grouping Recommendations
+status: Suite
+repo_name: bcp-002
+alt_repo_name: nmos-grouping
+repo_url: https://github.com/AMWA-TV/bcp-002
+default_branch: main
+show_in_index: false
