@@ -1,7 +1,8 @@
 # AMWA BCP-002: NMOS Resource Annotation
 
 [![Lint Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ALint)
-[![Render Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ARender)
+[![Zensical Render Status](https://github.com/AMWA-TV/bcp-002/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/bcp-002/actions/workflows/docs.yml)
+[![Legacy Render Status](https://github.com/AMWA-TV/nmos-grouping/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-grouping/actions?query=workflow%3ARender)
 
 <!-- INTRO-START -->
 
