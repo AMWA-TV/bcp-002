@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "repository": "AMWA-TV/bcp-002",
+  "documents": [
+    {
+      "title": "AMWA BCP-002: NMOS Resource Annotation",
+      "url": "https://specs.amwa.tv/new/bcp-002/latest/Overview/",
+      "text": "AMWA BCP-002: NMOS Resource Annotation AMWA BCP-002: NMOS Resource Annotation Introduction Overview - AMWA BCP-002: NMOS Resource Annotation Skip to content AMWA BCP-002: NMOS Resource Annotation (c) AMWA 2023, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction AMWA BCP-002 is a series of recommendations for using Annotation Properties (see IS-13 ) to group, disambiguate and annotated NMOS resources. For details of the current BCP-002 recommendations see the list of BCPs on the main NMOS page.",
+      "repository": "AMWA-TV/bcp-002"
+    },
+    {
+      "title": "README",
+      "url": "https://specs.amwa.tv/new/bcp-002/latest/images/",
+      "text": "README README README - AMWA BCP-002: NMOS Resource Annotation Skip to content README This directory is for images used in documentation",
+      "repository": "AMWA-TV/bcp-002"
+    },
+    {
+      "title": "AMWA BCP-002: NMOS Resource Annotation",
+      "url": "https://specs.amwa.tv/new/bcp-002/latest/",
+      "text": "AMWA BCP-002: NMOS Resource Annotation AMWA BCP-002: NMOS Resource Annotation What do the recommendations do? Why do they matter? What are the recommendations? Getting started AMWA BCP-002: NMOS Resource Annotation - AMWA BCP-002: NMOS Resource Annotation Skip to content AMWA BCP-002: NMOS Resource Annotation What do the recommendations do? Document best practice and recommendations for how to use label , description and tags in AMWA NMOS APIs. Why do they matter? Provide a consistent way of referring to groups of related Resources (e.g. video and audio Senders of a camera) Provide a consistent way of distinguishing between Resources Provide a consistent way of annotating Resources with user information. What are the recommendations? See the list of BCPs on the main NMOS page. Getting started There is more information about the NMOS Specifications and their GitHub repos at https://specs.amwa.tv/nmos .",
+      "repository": "AMWA-TV/bcp-002"
+    }
+  ]
+}
