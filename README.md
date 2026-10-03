@@ -28,6 +28,6 @@
 Start with the recommendation relevant to the resource information being described:
 
 - [BCP-002-01](https://specs.amwa.tv/bcp-002-01) for grouping related Resources
-- [BCP-002-02](https://specs.amwa.tv/bcp-002-02) for adding human-readable distinguishing information to Resources
+- [BCP-002-02](https://specs.amwa.tv/bcp-002-02) for human-readable distinguishing information for Resources
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
