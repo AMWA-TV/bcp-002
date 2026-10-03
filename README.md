@@ -18,10 +18,16 @@
 
 ### What are the recommendations?
 
-- See the [list of BCPs](https://specs.amwa.tv/nmos/#nmos-best-common-practices-bcp) on the main NMOS page.
+- [BCP-002-01: Natural Grouping of NMOS Resources](https://specs.amwa.tv/bcp-002-01)
+- [BCP-002-02: NMOS Asset Distinguishing Information](https://specs.amwa.tv/bcp-002-02)
 
 <!-- INTRO-END -->
 
 ## Getting started
+
+Start with the recommendation relevant to the resource information being described:
+
+- [BCP-002-01](https://specs.amwa.tv/bcp-002-01) for grouping related Resources
+- [BCP-002-02](https://specs.amwa.tv/bcp-002-02) for adding human-readable distinguishing information to Resources
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
